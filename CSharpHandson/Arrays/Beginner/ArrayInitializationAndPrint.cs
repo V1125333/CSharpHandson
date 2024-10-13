@@ -8,17 +8,17 @@ namespace CSharpHandson.Arrays.Beginner
 {
     public class ArrayInitializationAndPrint
     {
-        public static void Main(string[] args)
-        {
-            //declaring an int array 'numbers' and initializing with 5 integere values.
-            int[] numbers = new int[] { 1, 24, 5, 6, 35 };
+        //public static void Main(string[] args)
+        //{
+        //    //declaring an int array 'numbers' and initializing with 5 integere values.
+        //    int[] numbers = new int[] { 1, 24, 5, 6, 35 };
 
-            foreach (int number in numbers)
-            {
-                Console.WriteLine(number);
-            }
+        //    foreach (int number in numbers)
+        //    {
+        //        Console.WriteLine(number);
+        //    }
 
-            Console.ReadKey();
-        }
+        //    Console.ReadKey();
+        //}
     }
 }

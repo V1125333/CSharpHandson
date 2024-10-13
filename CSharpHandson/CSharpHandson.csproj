@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Arrays\Beginner\ArrayInitializationAndPrint.cs" />
+    <Compile Include="Arrays\Beginner\ArrayMaxValue.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
