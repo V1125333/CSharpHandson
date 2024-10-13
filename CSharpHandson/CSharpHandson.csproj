@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Arrays\Beginner\ArrayInitializationAndPrint.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -51,7 +52,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Arrays\Advanced\" />
-    <Folder Include="Arrays\Beginner\" />
     <Folder Include="Arrays\Intermediate\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
